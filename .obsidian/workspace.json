@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test note.md",
+                "file": "Test again.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test note"
+              "title": "Test again"
             }
           }
         ]
@@ -182,9 +182,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "b76923e0d585e19f",
+  "active": "c5b7dce563264655",
   "lastOpenFiles": [
     "Test note.md",
+    "Test again.md",
     "Test.md",
     "02_class_project",
     "02_class_project.md",
